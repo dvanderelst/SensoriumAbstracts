@@ -1,5 +1,5 @@
 <details>
-  <summary>09:0: <b>Kristina Fialko</b><br>Building visual signal diversity by discrete modifications of color and motion</summary>
+  <summary>09:00. <b>Kristina Fialko</b><br>Building visual signal diversity by discrete modifications of color and motion</summary>
 
 <p>fialko@uchicago.edu</p>
 <p>University of Chicago</p>
@@ -7,7 +7,7 @@
 
 </details>
 <details>
-  <summary>09:1: <b>Ryan Lunn</b><br>Assessing Canada Goose avoidance behavior to lights tuned to their visual system</summary>
+  <summary>09:15. <b>Ryan Lunn</b><br>Assessing Canada Goose avoidance behavior to lights tuned to their visual system</summary>
 
 <p>rlunn@purdue.edu</p>
 <p>Esteban Fernandez-Juricic (Purdue University); Brad Blackwell  (USDA APHIS)</p>
@@ -15,7 +15,7 @@
 
 </details>
 <details>
-  <summary>09:3: <b>Audrey E Miller</b><br>Generating 3-dimensional multispectral models to study dynamic visual signals in animals.</summary>
+  <summary>09:30. <b>Audrey E Miller</b><br>Generating 3-dimensional multispectral models to study dynamic visual signals in animals.</summary>
 
 <p>audreyem@princeton.edu</p>
 <p>Benedict G Hogan (Princeton University); Mary Caswell Stoddard (Princeton University)</p>
@@ -23,7 +23,7 @@
 
 </details>
 <details>
-  <summary>09:4: <b>Thinh H. Nguyen</b><br>Modeling sensorimotor behavior in echolocating bats with machine learning.</summary>
+  <summary>09:45. <b>Thinh H. Nguyen</b><br>Modeling sensorimotor behavior in echolocating bats with machine learning.</summary>
 
 <p>nguye2t7@mail.uc.edu</p>
 <p>Dieter Vanderelst (University of Cincinnati)</p>
@@ -31,7 +31,7 @@
 
 </details>
 <details>
-  <summary>01:3: <b>Klara Katarina Nordén</b><br>All that glitters is not gold</summary>
+  <summary>01:30. <b>Klara Katarina Nordén</b><br>All that glitters is not gold</summary>
 
 <p>knorden@princeton.edu</p>
 <p>Mary Caswell Stoddard (Princeton University)</p>
@@ -39,7 +39,7 @@
 
 </details>
 <details>
-  <summary>01:4: <b>Justin Remmell</b><br>Inhibition, not excitation, generates functional diversity between OFF-bipolar cells in the mouse retina</summary>
+  <summary>01:45. <b>Justin Remmell</b><br>Inhibition, not excitation, generates functional diversity between OFF-bipolar cells in the mouse retina</summary>
 
 <p>jdremm01@louisville.edu</p>
 <p>Bart Borghuis</p>
@@ -47,7 +47,7 @@
 
 </details>
 <details>
-  <summary>02:0: <b>Ruma Chatterji</b><br>What is “Front and Center” in a Fiddler Crab’s Spatial Perception?</summary>
+  <summary>02:00. <b>Ruma Chatterji</b><br>What is “Front and Center” in a Fiddler Crab’s Spatial Perception?</summary>
 
 <p>chattera@mail.uc.edu</p>
 <p>John E. Layne (University of Cincinnati)</p>
@@ -55,7 +55,7 @@
 
 </details>
 <details>
-  <summary>02:1: <b>Shubham Rathore</b><br>Osmotic pressure and eye growth in the larval eyes of the Sunburst diving beetle Thermonectus marmoratus</summary>
+  <summary>02:15. <b>Shubham Rathore</b><br>Osmotic pressure and eye growth in the larval eyes of the Sunburst diving beetle Thermonectus marmoratus</summary>
 
 <p>rathorst@mail.uc.edu</p>
 <p>Ruby Hyland-Brown; Augusta Jester; Isaac Wolff; Joshua Benoit; Elke Buschbeck (University of Cincinnati)</p>
@@ -63,7 +63,7 @@
 
 </details>
 <details>
-  <summary>02:3: <b>Jennifer Hellmann</b><br>Vertical transmission of horizontally-acquired cues: Implications for transgenerational plasticity</summary>
+  <summary>02:30. <b>Jennifer Hellmann</b><br>Vertical transmission of horizontally-acquired cues: Implications for transgenerational plasticity</summary>
 
 <p>jhellmann1@udayton.edu</p>
 <p>Cassandra Afseth; Andrew Shim; Samantha Anderson; Alison M. Bell (University of Illinois)</p>
@@ -71,7 +71,7 @@
 
 </details>
 <details>
-  <summary>02:4: <b>Oluwaseun M. Ajayi</b><br>Sleep deprivation influences blood feeding propensity, host landing and immune gene expression in the yellow fever mosquito, Aedes aegypti</summary>
+  <summary>02:45. <b>Oluwaseun M. Ajayi</b><br>Sleep deprivation influences blood feeding propensity, host landing and immune gene expression in the yellow fever mosquito, Aedes aegypti</summary>
 
 <p>ajayiom@mail.uc.edu</p>
 <p>Evan S. Smith (University of Cincinnati); Lucas A. Gleitz (University of Cincinnati); Justin M. Marlman (University of Cincinnati); Clément Vinauger (Virginia Polytechnic Institute and State University); Joshua B. Benoit (University of Cincinnati)</p>
@@ -79,7 +79,7 @@
 
 </details>
 <details>
-  <summary>04:0: <b>Kelly Ronald</b><br>A new ‘Canary in the Coalmine’: The house sparrow as a sentinel species for studying the effects of pollution</summary>
+  <summary>04:00. <b>Kelly Ronald</b><br>A new ‘Canary in the Coalmine’: The house sparrow as a sentinel species for studying the effects of pollution</summary>
 
 <p>ronald@hope.edu</p>
 <p>Dr. Gonzalez Pech, Sarah Grimes, Linda Nduwimana, Lindsay Jankowski, Molly McLinden, Olivia Sprys-Tellner, Peyton Hallemann, and Jacob Bergstrom (Hope College)</p>
@@ -87,7 +87,7 @@
 
 </details>
 <details>
-  <summary>04:1: <b>Ruth Simberloff</b><br>Limited communication distance for an urban songbird: functional implications for territory size</summary>
+  <summary>04:15. <b>Ruth Simberloff</b><br>Limited communication distance for an urban songbird: functional implications for territory size</summary>
 
 <p>rsimberloff@gmail.com</p>
 <p>Jennifer Phillips (Texas A&M University); Graham Derryberry (University of Tennessee); Elizabeth Derryberry (University of Tennessee)</p>
@@ -95,7 +95,7 @@
 
 </details>
 <details>
-  <summary>04:3: <b>Noelia Lander</b><br>Environmental sensing in the unicellular parasite Trypanosoma cruzi</summary>
+  <summary>04:30. <b>Noelia Lander</b><br>Environmental sensing in the unicellular parasite Trypanosoma cruzi</summary>
 
 <p>landernm@ucmail.uc.edu</p>
 <p>Miguel Chiurillo, Milad Ahmed, Joshua Carlson, Holland Tolliver, and Aqsa Raja</p>
@@ -103,7 +103,7 @@
 
 </details>
 <details>
-  <summary>04:4: <b>T Christopher Brown</b><br>Critical Period Plasticity Exchanges Neurons Active in Visual Circuitry</summary>
+  <summary>04:45. <b>T Christopher Brown</b><br>Critical Period Plasticity Exchanges Neurons Active in Visual Circuitry</summary>
 
 <p>tcbrow12@louisville.edu</p>
 <p>AW McGee (University of Louisville)</p>
@@ -111,7 +111,7 @@
 
 </details>
 <details>
-  <summary>05:0: <b>David J Morris</b><br>Visual Environment and the Evolution of Ornamental Coloring in Habronattus Jumping Spiders</summary>
+  <summary>05:00. <b>David J Morris</b><br>Visual Environment and the Evolution of Ornamental Coloring in Habronattus Jumping Spiders</summary>
 
 <p>morri2dd@mail.uc.edu</p>
 <p>Helean Shelton (University of Cincinnati); David Outomuro (University of Pittsburgh); Nathan Morehouse (University of Cincinnati)</p>
@@ -119,7 +119,7 @@
 
 </details>
 <details>
-  <summary>05:1: <b>Rebecca Fuller</b><br>Polyphenisms and polymorphisms: genetic variation in plasticity as a function of lighting environment in bluefin killifish</summary>
+  <summary>05:15. <b>Rebecca Fuller</b><br>Polyphenisms and polymorphisms: genetic variation in plasticity as a function of lighting environment in bluefin killifish</summary>
 
 <p>rcfuller@illinois.edu</p>
 <p>Ben Sandkam, Joe Travis, Katie McGhee, Matt Schrader (University of Louisville)</p>

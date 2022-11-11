@@ -32,7 +32,7 @@ for i in range(n):
     abstract = talk.abstract
     title = talk.title
 
-    time = str(time)[0:-4]
+    time = str(time)[0:-3]
 
 
     filled = template.replace('[time]', time)

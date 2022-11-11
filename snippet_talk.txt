@@ -1,5 +1,5 @@
 <details>
-  <summary>[time]: <b>[presenter]</b><br>[title]</summary>
+  <summary>[time]. <b>[presenter]</b><br>[title]</summary>
 
 <p>[email]</p>
 <p>[authors]</p>
