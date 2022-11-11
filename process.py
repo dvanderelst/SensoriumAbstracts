@@ -1,6 +1,12 @@
 import pandas
 
 
+def read_contents(filename):
+    fle = open(filename)
+    txt = fle.read()
+    fle.close()
+    return txt
+
 
 #
 # TALKS
@@ -12,7 +18,6 @@ n = data.shape[0]
 f = open('snippet_talk.txt')
 template = f.read()
 f.close()
-
 
 output = open('talks_output.md', 'w')
 
@@ -41,7 +46,6 @@ for i in range(n):
 
 output.close()
 
-
 #
 # TALKS
 #
@@ -55,7 +59,6 @@ n = data.shape[0]
 f = open('snippet_poster.txt')
 template = f.read()
 f.close()
-
 
 output1 = open('posters_1_output.md', 'w')
 output2 = open('posters_2_output.md', 'w')
@@ -71,16 +74,31 @@ for i in range(n):
 
     if pandas.isna(authors): authors = ''
 
-    filled = filled.replace('[presenter]', presenter)
+    filled = template.replace('[presenter]', presenter)
     filled = filled.replace('[title]', title)
 
     filled = filled.replace('[authors]', authors)
     filled = filled.replace('[abstract]', abstract)
 
     if session == '1': output1.write(filled + '\n')
-    if session == '2': output1.write(filled + '\n')
+    if session == '2': output2.write(filled + '\n')
 
 output1.close()
 output2.close()
 
+#
+#
+#
 
+talks = read_contents('talks_output.md')
+session1 = read_contents('posters_1_output.md')
+session2 = read_contents('posters_2_output.md')
+
+final = open('docs/index.md', 'w')
+final.write('<h1>Talks</h1>\n')
+final.write(talks)
+final.write('<h1>Poster Session 1</h1>\n')
+final.write(session1)
+final.write('<h1>Poster Session 2</h1>\n')
+final.write(session2)
+final.close()
