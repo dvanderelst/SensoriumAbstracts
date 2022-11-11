@@ -18,6 +18,8 @@ for i in range(n):
     abstract = talk.abstract
     title = talk.title
 
+    time = time.rstrip(':00')
+
     filled = template.replace('[time]', time)
     filled = filled.replace('[presenter]', presenter)
     filled = filled.replace('[title]', title)
