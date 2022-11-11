@@ -57,8 +57,8 @@ template = f.read()
 f.close()
 
 
-output = open('posters_output.md', 'w')
-
+output1 = open('posters_1_output.md', 'w')
+output2 = open('posters_2_output.md', 'w')
 for i in range(n):
     poster = data.iloc[i, :]
     print(list(poster))
@@ -71,15 +71,16 @@ for i in range(n):
 
     if pandas.isna(authors): authors = ''
 
-    filled = template.replace('[session]', session)
     filled = filled.replace('[presenter]', presenter)
     filled = filled.replace('[title]', title)
 
     filled = filled.replace('[authors]', authors)
     filled = filled.replace('[abstract]', abstract)
 
-    output.write(filled + '\n')
+    if session == '1': output1.write(filled + '\n')
+    if session == '2': output1.write(filled + '\n')
 
-output.close()
+output1.close()
+output2.close()
 
 
