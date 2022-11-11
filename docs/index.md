@@ -1,4 +1,4 @@
-# sensorium_abstracts
+# Sensorium Abstracts
 
 <details>
   <summary>Click me</summary>
