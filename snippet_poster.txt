@@ -1,0 +1,7 @@
+<details>
+  <summary>[session]: <b>[presenter]</b><br>[title]</summary>
+
+<p>[authors]</p>
+<p>[abstract]</p>
+
+</details>
