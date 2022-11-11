@@ -12,7 +12,7 @@ def read_contents(filename):
 # TALKS
 #
 
-data = pandas.read_excel('Sensorium_use_4_talks.xlsx', sheet_name='talk schedule', converters={'time': str})
+data = pandas.read_excel('Sensorium_use_4_talks.xlsx', sheet_name='talk schedule')
 n = data.shape[0]
 
 f = open('snippet_talk.txt')
@@ -31,6 +31,8 @@ for i in range(n):
     authors = talk['author list']
     abstract = talk.abstract
     title = talk.title
+
+    time = str(time)[0:-3]
 
 
     filled = template.replace('[time]', time)
