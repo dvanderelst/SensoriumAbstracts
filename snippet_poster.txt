@@ -1,6 +1,6 @@
 <details>
   <summary><b>Poster [number]: [presenter]</b><br>[title]</summary>
-
+<br><br>
 <p>[authors]</p>
 <p>[abstract]</p>
 
