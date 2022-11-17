@@ -1,5 +1,5 @@
 <details>
-  <summary><b>[presenter]</b><br>[title]</summary>
+  <summary><b>Poster [number]: [presenter]</b><br>[title]</summary>
 
 <p>[authors]</p>
 <p>[abstract]</p>

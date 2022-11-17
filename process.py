@@ -48,7 +48,7 @@ for i in range(n):
 output.close()
 
 #
-# TALKS
+# POSTERS
 #
 
 data = pandas.read_excel('Sensorium_use_4_posters.xlsx', sheet_name='poster numbers', converters={'time': str})
@@ -67,15 +67,19 @@ for i in range(n):
     poster = data.iloc[i, :]
     print(list(poster))
     print()
-    session = str(poster.session)
+    number = str(int(poster['poster number']))
+    session = str(int(poster.session))
     presenter = poster.presenter
-    authors = poster['author list']
+    authors = poster.authors
+    affiliation = poster.affiliations
     abstract = poster.abstract
     title = poster.title
 
     if pandas.isna(authors): authors = ''
+    if not pandas.isna(affiliation): authors = authors +', '+ affiliation
 
     filled = template.replace('[presenter]', presenter)
+    filled = filled.replace('[number]', number)
     filled = filled.replace('[title]', title)
 
     filled = filled.replace('[authors]', authors)
