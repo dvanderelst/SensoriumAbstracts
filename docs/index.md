@@ -1,4 +1,4 @@
-<img src="qrcode.png" width="200"/><br>
+<img src="qrcode.png" width="100"/><br>
 
 <h1>Talks</h1>
 <details>
