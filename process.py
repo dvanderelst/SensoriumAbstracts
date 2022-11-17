@@ -52,7 +52,7 @@ output.close()
 #
 
 data = pandas.read_excel('Sensorium_use_4_posters.xlsx', sheet_name='poster numbers', converters={'time': str})
-data = data.sort_values(by='Session')
+data = data.sort_values(by=['Session', 'poster number'])
 data['session'] = data['Session']
 data['author list'] = data['authors']
 n = data.shape[0]
