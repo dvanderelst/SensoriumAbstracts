@@ -1,20 +1,20 @@
 <details>
   <summary><b>Poster 2: Thomas Myers</b><br>Diversity or oral sensory neuron types in the trigeminal ganglion.</summary>
-<br>
+
 <p>Joe Breza - University of Eastern Michigan, Robin Krimm University of Louisville</p>
 <p>The trigeminal ganglion is home to somatosensory neurons whose processes innervate the entire head and neck. To date, little is known about somatosensory neuron types that innervate the oral cavity. Here, I recorded from mechanosensitive and thermosensitive neurons innervating the oral cavity. I found that the tongue was innervated by slow adapting (SA) or rapid adapting (RA) based on their response to force, and further categorized by their conduction velocity. A subset of anterior tongue and lip mechanosensory neurons were optogenetically identified as Parvalbumin+ (Pvalb+). Pvalb+ neurons tended to be fast Aβ, rapidly adapting neurons. To examine the innervation patterns of these neurons, I labeled them at different ages and compared their patterns to other known markers for somatosensory types that innervate tongue. Pvalb+ neurons are not visible until later postnatal ages, they innervate most fungiform papillae. Pvalb+ neurons also innervated fewer filiform papillae than both Neurofilament+ and CRGP+ neurons. In addition, they have distinctive morphological characteristics compared to another later appearing somatosensory population innervating the tongue (vGlut3+ neurons). These findings lay the groundwork for understanding sensory innervation of the oral cavity.</p>
 
 </details>
 <details>
   <summary><b>Poster 4: Lake Ernst</b><br>Novel insights into lens regeneration using P. watl</summary>
-<br>
+
 <p>ernstpl@miamioh.edu, Georgios Tsissios, Gabriella Theodoroudis-Rapp, Weihao Chen, Anthony Sallese, Byran Smucker, Junfan Chen, Tom Xu, Sophia Ratvasky, Hui Wang, Katia Del Rio-Tsonis</p>
 <p>For over two centuries, researchers have been investigating the mechanisms that facilitate tissue regeneration. Newts are known as ‘champions of regeneration’, since they have a remarkable ability to regenerate many tissues including cardiac, neural, and eye tissues such as the retina and lens regardless of age. Historically, traditional protocols have been utilized to provide insights into lens regeneration such as histology or immunodetection, which requires animal sacrifice and limits tracking of lens regeneration over time using the same animal. In recent years, robust technologies have emerged that aim to provide deeper insights into these processes in vivo. One such technology is Optical Coherence Tomography (OCT), an emerging technology that provides detailed, real-time illustrations of these processes in live animals, using light scatter detection software. Using Pleurodeles waltl as a model organism, along with OCT, we were able to obtain accurate 3D in vivo representations of the process of lens regeneration at different ages (larvae, juveniles, and adults). Previous work has shown that newts do not lose their ability to regenerate their lens with age. However, we found that the rate of lens regeneration declines as the animals age. These results are consistent with findings that cell-cycle reentry and clearance of the extracellular matrix (ECM) was delayed at older ages. Our results suggest that while age does not limit regeneration competence, it does impact the rate of regeneration. Further studies in P. watl, including the determination of the role of extracellular matrix remodeling during regeneration will be important in providing clues to this 200-year-old mystery.</p>
 
 </details>
 <details>
   <summary><b>Poster 6: Sophia Ratvasky</b><br>The Role of Macrophages in Lens Regeneration</summary>
-<br>
+
 <p>ratvassc@miamioh.edu, Georgios Tsissios, Anthony Sallese, J. Raul Perez-Estrada, Jared A. Tangeman, Weihao Chen, Byran Smucker, Arielle Martinez, Hui Wang, Katia Del Rio-Tsonis</p>
 <p>Purpose: For many decades, scientists have been trying to better understand the fascinating scar-free injury response known as regeneration. Many studies have shown that macrophages are required for successful regeneration across a wide demographic of animals. We aimed to investigate the role of macrophages during lens regeneration in the P. waltl. 
  Methods: To assess how macrophage depletion affects the process of lens regeneration, we targeted macrophages by the use of clodronate liposomes. Intraocular injections of control or clodronate liposomes were performed immediately after lentectomy, and at 2 and 4 dpl. At 30 dpl, eyes were collected, processed, and sectioned to be used for immunohistochemistry. 
@@ -24,77 +24,77 @@
 </details>
 <details>
   <summary><b>Poster 8: Michaela Rogers</b><br>Paternal exposure to novel predator cues reduces offspring survival in threespined stickleback</summary>
-<br>
+
 <p>Jennifer Hellmann</p>
 <p>Climate change induces rapid changes to the environment such as introducing invasive species. Organisms can cope through transgenerational plasticity (TGP), occurring when parental experiences influence offspring phenotypes. TGP can prime offspring for future environments, but it is less known how parents use sensory cues to detect environmental shifts (i.e. increased predation). Individuals may rely on one cue (e.g. visual, olfactory) or use different cues simultaneously. I exposed threespined stickleback (Gasterosteus aculeatus) males to cues of a novel trout predator prior to fertilization for 10 days. I examined paternal behavior pre and post-exposure, and measured MHC expression with qPCR. MHC expression can reflect condition: sticklebacks with high MHC expression have worse condition and more stress. I generated offspring after the last exposure with IVF and tested them for antipredator behavior and survival against a live predator. Fathers exposed to visual cues oriented more to and spent time closer to the novel predator post-exposure on day one; MHC analysis is ongoing. Further, offspring survival decreased if fathers received visual cues. The visual cue was the only cue to elicit a change in paternal behavior and have a transgenerational effect on offspring, suggesting its importance for the recognition of novel predators in sticklebacks.</p>
 
 </details>
 <details>
   <summary><b>Poster 10: Amartya Tashi Mitra</b><br>Exploring the architecture of a complex lens</summary>
-<br>
+
 <p>Shubham Rathore, Elke Buschbeck - University of Cincinnati</p>
 <p>One of the most important features of eyes are lenses, structures which focus light precisely onto the retina. The process of lens development is well documented in vertebrates, in which the lens is a cellular structure that grows in layers. However, even though morphologically similar, insect lenses are made of secreted proteins, and how these are integrated to form a functional lens remains relatievely unexplored. To investigate how specific lens proteins contribute to accurate lens construction, we used RNAi to knock down lens3, a key lens protein of the visually guided predatory larvae of sunburst diving beetles, Thermonectus marmoratus. These are the only known extant organism with bifocal lenses, and lens3 is known to be expressed in lens producing cells. Knock-downs lead to cataract-like opacities, as well as deformities in lens architecture which we assess at the ultrasctructural level. Based on optical asessments we find that loss of lens3 affects the sharpness of images produced by isolted lenses, as well as the focusing capabilities of intact larval eyes. Ongoing behavioural studies further asess the potential impact on hunting success. This study represents a first step towards understanding how a complex insect lens is formed to support well-focusing eyes.</p>
 
 </details>
 <details>
   <summary><b>Poster 12: Dr. Anca Ralescu</b><br>P300-based Brain Computer Interface for the Control of an Assistive Robo</summary>
-<br>
+
 <p>Madhav Lolla, Sreekar Puchala, Sameer Jadhav, Anh Nguyen, Tian Tan</p>
 <p>Brain-computer interface (BCI) systems involving non-invasive Electroencephalography (EEG) are designed to stimulate task-specific electrical signals, analyse, and recognize patterns generated in conjunction with a cognitive task. These patterns can then be used to instruct a physical device (e.g., wheelchairs or robotic systems) to carry out a particular action. Among several BCI paradigms are those based on a positive deflection stimulated and observed in a person's EEG (P300) - generated after they successfully detect a target stimulus presented among concurrent non-target stimuli. While P300-based systems have been employed successfully in spelling tasks, the nature of these experiments facilitates their application in assistive robotic systems designed to carry out tasks such as navigating, grasping, and delivering objects. In this research, we design a P300-based BCI system that can navigate an assistive robot efficiently in an indoor setting. Utilising computer vision, our robot is capable at detecting, identifying objects, grasping, lift, and deliver them to the user. In conjunction with this, we have designed an efficient navigation plan for the robot tailored to the context of target object detection and grasping. We also discuss the implementation of an AI system, a knowledge base of relevant information for objects and locations of interest in the physical space.</p>
 
 </details>
 <details>
   <summary><b>Poster 14: Syeda Farjana Hoque</b><br>Haller’s organ functionality is critical for ticks to detect humidity and prevent dehydration</summary>
-<br>
+
 <p>Syeda Farjana Hoque, Jasmine Kennedy, Melissa Uhran, Melissa Kelley, Evan Smith, Kennan Oyen, Ayesha Benton, Pia U. Olafson, Meghan Liu, Arturo Ledezma Ramírez, Thomas Arya, Shyh-Chi Chen and Joshua B. Benoit</p>
 <p>Ticks must be able to move into high humidities for water vapor uptake to replenish water stores. If their humidity sensing is impaired, ticks cannot readily move to high humidities, prompting increased death. Here, we examined the ability of American dog ticks to sense humidity by manipulating the Haller’s organ and how altered humidity detection impacts tick survival. Also, Ir93a (an ionotropic receptor linked to humidity detection) expression was examined in the Haller’s organ location (first legs). Either permanent removal or temporary blocking of the Haller’s organ impairs the ability of ticks to rest in areas with high humidity to maintain hydration. Impaired detection of humidity did not impact tick survival when individuals were held under stable, humid conditions, but variable humidity conditions (wet and dry areas) resulted in reduced survival. This increased mortality is likely a combination of increased dehydration stress and rapid utilization of energy reserves required for water vapor uptake. Ir93a is expressed highly in the first legs, suggesting that this receptor is associated with humidity detection. These studies indicate that the Haller’s organ is likely essential for humidity sensing in ticks and a lack of humidity detection lowers tick survival.</p>
 
 </details>
 <details>
   <summary><b>Poster 16: Olivia Harris</b><br>Characterizing color vision in jumping spiders through unlearned behaviors</summary>
-<br>
+
 <p>Nuthara Jayasinghe, Jala Reed, Nathan Morehouse - University of Cincinnati</p>
 <p>Jumping spiders are highly visual predators that rely on high acuity vision to capture prey. They also exhibit a wide variety of colorful signals employed in courtship. Molecular and physiological evidence suggests the existence of di-, tri-, and tetrachromacy across the family, but behavioral experiments have not interrogated the chromatic capabilities of these animals. Traditionally, evidence for color vision had relied on association-based behavioral trials to demonstrate an animal’s ability to discriminate between wavelengths. However, in many animals, including jumping spiders, such paradigms are laborious or inaccessible. To surmount this, we investigated achromatic and chromatic discrimination in two species of jumping spiders using unlearned behavioral responses. To do this, we characterized chromatic and achromatic contrast thresholds using whole-body responses as well as retinal tracking movements to video playback stimuli. This ongoing work is providing critical evidence of the perceptual abilities of these colorful animals.</p>
 
 </details>
 <details>
   <summary><b>Poster 18: Milad Ahmed</b><br>Study of cAMP signaling dynamics in Trypanosoma cruzi life cycle</summary>
-<br>
+
 <p>Miguel Chiurillo and Noelia Lander</p>
 <p>The purpose of the current study is to investigate cyclic AMP (cAMP) signaling dynamics in Trypanosoma cruzi, the causative agent of Chagas disease. This parasite differentiates into four developmental stages to complete its life cycle within an insect vector and a mammalian host. Consequently, the parasite faces extreme environmental changes. The response to these changes is mediated by signal transduction pathways. cAMP is a universal second messenger and previous studies have shown that cAMP levels increase during T. cruzi metacyclogenesis, suggesting a role in T. cruzi differentiation. We used a genetically encoded red fluorescent cAMP indicator (R-FlincA) to generate a cAMP biosensor cell line in T. cruzi. The PCR amplified R-FlincA was subcloned into the T. cruzi expression vector pTREX-n and constructs were used to transfect T. cruzi epimastigotes. Resistant populations were selected and RFlicA expression was confirmed by western blot. We are currently measuring the intracellular cAMP levels in these cell lines under different experimental conditions, using fluorometry and flow cytometry techniques. Subsequently, we will use this biosensor to identify cAMP signaling domains in different developmental stages of the parasite. We anticipate that our results will provide new insights into the role of cAMP in T. cruzi life cycle.</p>
 
 </details>
 <details>
   <summary><b>Poster 20: Kelly E. Fredericksen</b><br>An anatomical study of synaptic connections from the chemosensory cortices to the mediodorsal thalamus</summary>
-<br>
+
 <p>Chad L. Samuelsen, University of Louisville</p>
 <p>The mediodorsal thalamus (MD) processes and communicates information between cortical areas related to attention, valuation, and stimulus-outcome associations. Recently, we showed that neurons in the mediodorsal thalamus encode the sensory and affective properties of intraorally delivered odors, tastes, and odor-taste mixtures. Although traditional tract-tracing studies show that projections from the primary chemosensory cortices for smell and taste (piriform cortex (PC) and gustatory cortex (GC), respectively) overlap in the mediodorsal thalamus, the proportions of neurons in the mediodorsal thalamus that receive direct projections from these cortical areas remains unclear. Using an intersectional viral approach, we found that a greater proportion of neurons in the mediodorsal thalamus receive synaptic connections from the gustatory cortex than from the piriform cortex. Next, we sought to determine the role of the mediodorsal thalamus in consummatory choice. Using a two-bottle brief-access task, we measured preferences for previously experienced odors, tastes, and odor-taste mixtures. Pharmacological inactivation (NBQX) of mediodorsal thalamus significantly reduced consumption during both the odor and taste sessions and eliminated the experience-dependent odor preference for the saccharin paired odor. These anatomical and behavioral findings corroborate that the mediodorsal thalamus plays a key role in the multisensory flavor processing that guides ingestive behaviors.</p>
 
 </details>
 <details>
   <summary><b>Poster 22: Sophia Clemen</b><br>Testing for individually-recognizable vocal signatures in Northern Bobwhite quail</summary>
-<br>
+
 <p>Sanjay Prasher (graduate student), Claire O’Connell (graduate student), Elizabeth Hobson (principal investigator)</p>
 <p>The Northern Bobwhite quail, Colinus virginianus, is a species of great conservation concern, with Ohio populations experiencing greater than a 97% decrease in numbers since the 1970’s. Wild populations in Ohio are currently monitored with automated sound recording units. Our goal is to test whether male “bob-white” calls are individually distinctive and could be used to better estimate population sizes, habitat fidelity, and movement patterns. Previous studies have shown that Bobwhite quail differ in the structure of their separation calls, but whether the loud territoriality calls are individually distinctive is unknown. To test this, we recorded calls from 12-20 male Bobwhite which were placed in individual sound recording chambers. We analyzed: (1) whether male “bob-white” calls were consistent within individuals and (2) whether calls were distinctive across individuals. We analyzed characteristics of call spectrograms using the R package warbleR. Results of this study could have strong conservation implications and could be used to better understand and manage threatened populations of wild quail.</p>
 
 </details>
 <details>
   <summary><b>Poster 24: Joshua Carlson</b><br>Study of putative cAMP effectors in Trypanosoma cruzi</summary>
-<br>
+
 <p>Aqsa Raja, Miguel Chiurillo, and Noelia Lander (Department of Biological Sciences, University of Cincinnati)</p>
 <p>Chagas disease is endemic in the Americas where it affects 8 million people, with no vaccines or effective treatments for the chronic phase of the disease. Its etiological agent, Trypanosoma cruzi, is a protozoan parasite with a complex life cycle, involving a mammalian host and an insect vector. In response to microenvironmental changes, T. cruzi differentiates into four developmental forms. Signaling cascades, including the cAMP pathway, sense these changes and trigger parasite differentiation. Canonical cAMP effectors are either absent or cAMP unresponsive in trypanosomes. Studying putative cAMP effectors is crucial to elucidate the role of this pathway in environmental sensing. In this study we are investigating the role of four putative cAMP effectors in T. cruzi: cAMP response proteins 1 and 3 (CARP1, CARP3), a regulatory subunit of Protein Kinase A-like protein (PKAr-like), and Flagellar Membrane Protein 6 (FLAM6). Using CRISPR/Cas9 technology we generated mutant cell lines where each protein was endogenously tagged, and CARPs were knocked out. Gene editing and protein expression was verified by PCR and western blot, while localization was analyzed by confocal microscopy. Further characterization of mutants is currently in progress. Our results will provide key information on the possible role of cAMP effectors in trypanosomes.</p>
 
 </details>
 <details>
   <summary><b>Poster 26: Robert Lundy</b><br>Central Amygdala Somatostatin Expressing Neurons Projecting to NST are GABAergic</summary>
-<br>
+
 <p>Jane Bartonjo</p>
 <p>The nucleus of solitary tract (NST) and parabrachial nucleus (PBN) represent the first and second central synapses of ascending gustatory information. Neural processing in these nuclei is influenced by descending input from forebrain regions such as the central nucleus of the amygdala (CeA). In mice, we have shown that somatostatin (Sst) expressing neurons of CeA (CeA/Sst) that project to NST and PBN are largely distinct cell populations and optogenetic inhibition of the CeA/Sst-to-NST subpopulation increases the intake of high concentrations of quinine, a taste stimulus that is usually considered aversive. The synaptic connectivity of this cell population is required to understand the possible mechanisms underlying these behavioral responses. Our lab has previously demonstrated that CeA/Sst terminals within the PBN expressed GABA and made synaptic contacts, largely, with non-GABAergic neural elements. To determine whether CeA/Sst terminals within the NST also express GABA, we used electron microscopy combined with cre-dependent anterograde transported virus injections (AAV9-DIO-dApex2) into the CeA of Sst-cre mice and post-embedding immunogold labelling for GABA. We found that majority of CeA/Sst terminals in NST express GABA and synapsed with non-GABAergic neural targets. These results suggest that CeA/Sst cells provide monosynaptic input to second order NST projection neurons (non-GABAergic) and this direct feedback inhibition is necessary for appropriate responding to bitter taste quality.</p>
 
 </details>
 <details>
   <summary><b>Poster 28: Morgan Chaney</b><br>Modeling the application of laser bird deterrents to estimate the potential risk of eye injury to a bird</summary>
-<br>
+
 <p>chaneym@purdue.edu, Greg Gallagher, Ball State University; Jeffrey Lucas, Purdue University; Esteban Fernandez-Juricic, Purdue University</p>
 <p>Laser bird deterrents are being promoted as a safe alternative to many of the deterrents currently available on the market, but research regarding their safety is limited. Previous work has shown that a class IV laser deterrent can cause ocular damage in European starlings and house sparrows under controlled conditions, but this was dependent on the laser exposure time. Here, we developed a model to predict the amount of time a bird is exposed to the laser in the field (i.e., agricultural plots), taking into consideration the speed of the laser and bird movements, bird eye diameter, and laser properties (divergence, beam diameter). We made our model species-specific by focusing the bird parameters on European starlings. Our model shows that predicted exposure times can range from approximately 4ms to 330ms for distances up to 500 meters away. The exposure times increased when the bird and laser were traveling in the same direction and their speeds were similar to each other. This predictive framework can allow us to further explore probability of laser exposure and the potential risks associated with it.</p>
 
