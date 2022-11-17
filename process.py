@@ -100,7 +100,7 @@ session1 = read_contents('posters_1_output.md')
 session2 = read_contents('posters_2_output.md')
 
 final = open('docs/index.md', 'w')
-final.write('<img src="qrcode.png" width="200"/>\n\n<br>')
+final.write('<img src="qrcode.png" width="200"/><br>\n\n')
 final.write('<h1>Talks</h1>\n')
 final.write(talks)
 final.write('<h1>Poster Session 1</h1>\n')
