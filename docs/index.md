@@ -1,4 +1,6 @@
-<img src="qrcode.png" style="zoom:33%;" /><h1>Talks</h1>
+<img src="qrcode.png" width="200"/>
+
+<br><h1>Talks</h1>
 <details>
   <summary>09:00. <b>Kristina Fialko</b><br>Building visual signal diversity by discrete modifications of color and motion</summary>
 
