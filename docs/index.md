@@ -33,6 +33,12 @@
 <p>Computational models of animal behavior can test hypotheses and reveal limitations in knowledge or understanding. While simulation is a valuable tool, modeling complex sensory behavior is often complicated by the need to select values for unknown model parameters. Moreover, realistically simulating the sensory input experienced by animals is far from trivial. In our computational work on echolocation in bats, we are currently exploring whether machine learning can aid in automatically selecting parameters for models of sensorimotor behavior. We tasked a simulated agent (bat) with moving around an arena constructed of vegetation-like obstacles and approaching objects labeled as food. We postulated bats can successfully forage by appropriately switching between two sensorimotor loops. Using the current sensory input, a neural network activate the governing sensorimotor loop between the two, allowing for a complex mapping between sensory input and actions. We used reinforcement learning to parametrize the neural network. To ensure the acoustic veracity of our simulation environment, we use acoustic data collected using a physical sonar sensor to supply the simulator with a realistic acoustic model of a complex environment. Our results demonstrate the feasibility of using automatic parameter selection in simulation while maintaining the realism of the modeled sensory input.</p>
 
 </details>
+
+
+<b>11:00. Plenary talk<\b>Bruce Carlson
+
+Neural mechanisms of evolutionary change in sensory perception: a case study in weakly electric fish
+
 <details>
   <summary>01:30. <b>Klara Katarina Nordén</b><br>All that glitters is not gold</summary>
 
