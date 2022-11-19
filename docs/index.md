@@ -34,7 +34,7 @@
 
 </details>
 
-<h3>11:00. Plenary talk by Bruce Carlson </h3>
+<h5>11:00. Plenary talk by Bruce Carlson </h5>
 Neural mechanisms of evolutionary change in sensory perception: a case study in weakly electric fish
 <br>
 
