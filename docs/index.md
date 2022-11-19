@@ -34,10 +34,11 @@
 
 </details>
 
-
-<b>11:00. Plenary talk<\b>Bruce Carlson
+<br>
+<b>11:00. Plenary talk</b> Bruce Carlson
 
 Neural mechanisms of evolutionary change in sensory perception: a case study in weakly electric fish
+<br>
 
 <details>
   <summary>01:30. <b>Klara Katarina Nordén</b><br>All that glitters is not gold</summary>
