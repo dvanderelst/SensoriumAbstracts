@@ -1,6 +1,6 @@
-<img src="qrcode.png" width="100"/><br>
+<img src="qrcode.png" width="75"/><br>
 
-<h2>Talks</h2>
+<h3>Talks</h3>
 <details>
   <summary>09:00. <b>Kristina Fialko</b><br>Building visual signal diversity by discrete modifications of color and motion</summary>
 
@@ -135,7 +135,7 @@ Neural mechanisms of evolutionary change in sensory perception: a case study in 
 <p>The presence of stable color polymorphisms within populations begs the question of how genetic variation is maintained. Consistent variation among populations in coloration, especially when correlated with variation in lighting conditions, raises questions about whether lighting conditions affect either the fulcrum of those balanced polymorphisms, the plastic expression of coloration, or both. Color patterns in male bluefin killifish provoke both types of questions. Red and yellow morphs are common in all populations. Blue males are more common in tannin-stained swamps relative to clear springs. Here we combined crosses with a manipulation of light to explore how genetic variation and phenotypic plasticity shape these patterns. We found that the variation in coloration is attributable mainly to two axes of variation: (1) a red-yellow axis with yellow being dominant to red, and (2) a blue axis that can override red-yellow and is controlled by genetics, phenotypic plasticity, and genetic variation for phenotypic plasticity. The variation among populations in plasticity suggests it is adaptive in some populations but not others. The variation among sires in plasticity within the swamp population suggests balancing selection may be acting not only on the red-yellow polymorphism but also on plasticity for blue coloration.</p>
 
 </details>
-<h2>Poster Session 1</h2>
+<h3>Poster Session 1</h3>
 <details>
   <summary><b>Poster 1: Michael Meece</b><br>Exploring specific infrared light wavelengths for neural recovery</summary>
 
@@ -241,7 +241,7 @@ Neural mechanisms of evolutionary change in sensory perception: a case study in 
 <p>Animal habitats may contain heterogeneities in important factors such as the plants that are locally available. Animals that specialize on these plants may encounter different plant-derived sensory cues in different locales. Evolutionary adaptation to different plant cues may result in evolutionary divergence, reproductive isolation, and speciation. Divergent traits include behavioral preference for local plants and sensitivity to plant cues in the peripheral nervous system. The cues and sensations involved are primarily chemical and olfactory, the latter initiated by olfactory sensory neurons (OSNs) that express odorant receptor genes. The cactophilic fly Drosophila mojavensis occurs as four geographically isolated populations in the deserts of southwestern North America. Each population is an obligate specialist that feeds and breeds on one of four different cactus species. A model for incipient speciation, D. mojavensis has been studied for their olfactory responses (behavioral and neuro-sensory) to odorants, especially cactus-derived volatiles. This revealed differences between the populations in OSN sensitivity which are hypothesized to have arisen due to variation in receptor expression or amino acid sequence, each of which are major ways for species to evolve divergence in sensory capability and behavior. In the present study we characterize the differential sensitivity – adaptive divergence – of D. mojavensis OSNs to a range of concentrations of stimulus odorants, rather than the more typical single concentration. The resulting dose-response curves provide a more definitive measure, compared to single concentrations, of the amount, direction and even the existence of any potential divergence, indicated by a left- or rightward shift of the curve. Also, the slope of the curve shows the binding affinity of the OSNs, which may provide a hint as to the mechanistic cause of the divergence, e.g., difference in receptor expression levels, difference in receptor amino acid sequences.</p>
 
 </details>
-<h2>Poster Session 2</h2>
+<h3>Poster Session 2</h3>
 <details>
   <summary><b>Poster 2: Thomas Myers</b><br>Diversity or oral sensory neuron types in the trigeminal ganglion.</summary>
 
